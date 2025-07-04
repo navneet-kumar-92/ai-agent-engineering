@@ -8,4 +8,4 @@ response = completion(
     messages=[{"content": "Hello, how are you?", "role": "user"}]
 )
 
-print(response.choices[0].message.content)
+print(response.choices[0].message.content) # type: ignore
