@@ -1,5 +1,5 @@
 {
-  "name": "week2-simple-agent-typescript",
+  "name": "week2-typescript-agent-with-tool-calling-search-and-rag",
   "version": "0.1.0",
   "private": true,
   "scripts": {

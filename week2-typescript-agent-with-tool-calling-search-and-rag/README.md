@@ -150,7 +150,7 @@ The agent includes web search functionality powered by Serper API. This is optio
 ## 📁 Project Structure
 
 ```
-week2-simple-agent-typescript/
+week2-typescript-agent-with-tool-calling-search-and-rag/
 ├── app/
 │   ├── api/
 │   │   ├── agent/         # Multi-step agent API endpoint
