@@ -1,6 +1,6 @@
-# RAG Next.js TypeScript Application
+# Simple Agent with Tool Calling, Search, and RAG
 
-A modern **Retrieval-Augmented Generation (RAG)** chat application built with Next.js, TypeScript, and powered by OpenAI's GPT models with vector-based document retrieval using Vectorize.io.
+A modern **multi-tool agent** application built with Next.js, TypeScript, featuring advanced agent capabilities including tool calling, web search, mathematical calculations, and **Retrieval-Augmented Generation (RAG)** powered by OpenAI's GPT models with vector-based document retrieval using Vectorize.io.
 
 ## 🚀 Features
 
@@ -150,7 +150,7 @@ The agent includes web search functionality powered by Serper API. This is optio
 ## 📁 Project Structure
 
 ```
-rag-next-typescript/
+week2-simple-agent-typescript/
 ├── app/
 │   ├── api/
 │   │   ├── agent/         # Multi-step agent API endpoint
