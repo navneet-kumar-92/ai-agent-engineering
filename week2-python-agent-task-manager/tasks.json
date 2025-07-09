@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Buy groceries",
+        "priority": "medium",
+        "created_at": "2025-07-09T19:38:16.039873",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "Finish the report",
+        "priority": "medium",
+        "created_at": "2025-07-09T19:38:16.040073",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "title": "Call the plumber",
+        "priority": "medium",
+        "created_at": "2025-07-09T19:38:16.040175",
+        "completed": true
+    },
+    {
+        "id": 4,
+        "title": "Review the quarterly report",
+        "priority": "high",
+        "created_at": "2025-07-09T23:44:50.164976",
+        "completed": true
+    },
+    {
+        "id": 5,
+        "title": "Review the quarterly report",
+        "priority": "high",
+        "created_at": "2025-07-09T23:47:59.038987",
+        "completed": true
+    },
+    {
+        "id": 6,
+        "title": "Review the quarterly report",
+        "priority": "high",
+        "created_at": "2025-07-09T23:51:25.518367",
+        "completed": true
+    },
+    {
+        "id": 7,
+        "title": "Water the plants",
+        "priority": "medium",
+        "created_at": "2025-07-10T00:31:42.066693",
+        "completed": false
+    }
+]
